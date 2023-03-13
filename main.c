@@ -6,7 +6,7 @@
 
 int main() {
     printf("\tProjeto e Análise de Algoritmos\n");
-    printf("\tListEx 02 - Calculando Tempo de Execução – Ordenação por Inserção e outros exemplos\n");
+    printf("\tListEx 02 | Ordenação por Inserção Decrescente\n");
     printf("Entre com o tamanho (n) do Array\n");
     printf("> ");
     scanf("%d", &n);

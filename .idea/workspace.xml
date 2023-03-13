@@ -20,8 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2222236-30b6-4456-9b7e-3aa72ae2bef6" name="Changes" comment="squash! Adicionado classe e header responsáveis por gerar o Array e ordená-lo Adicionado classe e header responsáveis por copiar o array e escrevê-lo na tela Adicionada uma classe e header responsável por escrever na tela a quantidade necessária de operações para concluir a ordenação">
+    <list default="true" id="f2222236-30b6-4456-9b7e-3aa72ae2bef6" name="Changes" comment="Added .gitignore file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678684184581</updated>
-      <workItem from="1678684185677" duration="3938000" />
+      <workItem from="1678684185677" duration="5247000" />
     </task>
     <task id="LOCAL-00001" summary="Base do projeto">
       <created>1678684392249</created>
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678687583890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added .gitignore file">
+      <created>1678688173062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678688173062</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Base do projeto" />
     <MESSAGE value="Adicionado classe e header responsáveis por gerar o Array e ordená-lo&#10;Adicionado classe e header responsáveis por copiar o array e escrevê-lo na tela&#10;Adicionada uma classe e header responsável por escrever na tela a quantidade necessária de operações para concluir a ordenação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado classe e header responsáveis por gerar o Array e ordená-lo&#10;Adicionado classe e header responsáveis por copiar o array e escrevê-lo na tela&#10;Adicionada uma classe e header responsável por escrever na tela a quantidade necessária de operações para concluir a ordenação" />
+    <MESSAGE value="Added .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added .gitignore file" />
   </component>
 </project>
