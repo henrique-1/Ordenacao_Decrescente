@@ -20,23 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2222236-30b6-4456-9b7e-3aa72ae2bef6" name="Changes" comment="Base do projeto">
-      <change afterPath="$PROJECT_DIR$/numOps.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numOps.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordenacao.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordenacao.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printArray.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printArray.h" afterDir="false" />
+    <list default="true" id="f2222236-30b6-4456-9b7e-3aa72ae2bef6" name="Changes" comment="squash! Adicionado classe e header responsáveis por gerar o Array e ordená-lo Adicionado classe e header responsáveis por copiar o array e escrevê-lo na tela Adicionada uma classe e header responsável por escrever na tela a quantidade necessária de operações para concluir a ordenação">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-529093a985231d5b0aae.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-255f320b52468528ad6d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-13T05-09-46-0852.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Ordenacao_Decrescente-Debug-c057d4b422a01955bd64.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +32,13 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -100,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678684184581</updated>
-      <workItem from="1678684185677" duration="3296000" />
+      <workItem from="1678684185677" duration="3938000" />
     </task>
     <task id="LOCAL-00001" summary="Base do projeto">
       <created>1678684392249</created>
@@ -109,14 +101,45 @@
       <option name="project" value="LOCAL" />
       <updated>1678684392249</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adicionado classe e header responsáveis por gerar o Array e ordená-lo&#10;Adicionado classe e header responsáveis por copiar o array e escrevê-lo na tela&#10;Adicionada uma classe e header responsável por escrever na tela a quantidade necessária de operações para concluir a ordenação">
+      <created>1678687583890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678687583890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Base do projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Base do projeto" />
+    <MESSAGE value="Adicionado classe e header responsáveis por gerar o Array e ordená-lo&#10;Adicionado classe e header responsáveis por copiar o array e escrevê-lo na tela&#10;Adicionada uma classe e header responsável por escrever na tela a quantidade necessária de operações para concluir a ordenação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado classe e header responsáveis por gerar o Array e ordená-lo&#10;Adicionado classe e header responsáveis por copiar o array e escrevê-lo na tela&#10;Adicionada uma classe e header responsável por escrever na tela a quantidade necessária de operações para concluir a ordenação" />
   </component>
 </project>
